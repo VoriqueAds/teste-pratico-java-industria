@@ -39,8 +39,8 @@ public class Principal {
         List<Funcionario> funcionarios = new ArrayList<>();
 
         funcionarios.add(new Funcionario(
-                "Catarina", LocalDate.of(1995, 10, 18),
-                new BigDecimal("2050.85"), "Operador"
+                "Maria", LocalDate.of(2000, 10, 18),
+                new BigDecimal("2009.44"), "Operador"
         ));
 
         funcionarios.add(new Funcionario(
@@ -49,37 +49,37 @@ public class Principal {
         ));
 
         funcionarios.add(new Funcionario(
-                "Arthur", LocalDate.of(1961, 5, 2),
+                "Caio", LocalDate.of(1961, 5, 2),
                 new BigDecimal("9836.14"), "Coordenador"
         ));
 
         funcionarios.add(new Funcionario(
-                "Vitor", LocalDate.of(1988, 10, 14),
+                "Miguel", LocalDate.of(1988, 10, 14),
                 new BigDecimal("19119.88"), "Diretor"
         ));
 
         funcionarios.add(new Funcionario(
-                "Gabriela", LocalDate.of(1995, 1, 5),
+                "Alice", LocalDate.of(1995, 1, 5),
                 new BigDecimal("2234.68"), "Recepcionista"
         ));
 
         funcionarios.add(new Funcionario(
-                "Hugo", LocalDate.of(1999, 11, 19),
+                "Heitor", LocalDate.of(1999, 11, 19),
                 new BigDecimal("1582.72"), "Operador"
         ));
 
         funcionarios.add(new Funcionario(
-                "Paulo", LocalDate.of(1993, 3, 31),
+                "Arthur", LocalDate.of(1993, 3, 31),
                 new BigDecimal("4071.84"), "Contador"
         ));
 
         funcionarios.add(new Funcionario(
-                "Maria", LocalDate.of(1994, 7, 8),
+                "Laura", LocalDate.of(1994, 7, 8),
                 new BigDecimal("3017.45"), "Gerente"
         ));
 
         funcionarios.add(new Funcionario(
-                "Tereza", LocalDate.of(2003, 5, 24),
+                "Heloísa", LocalDate.of(2003, 5, 24),
                 new BigDecimal("1606.85"), "Eletricista"
         ));
 
